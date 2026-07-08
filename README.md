@@ -16,10 +16,6 @@ A simple task management application that allows users to create, edit, complete
 - JavaScript
 - Local Storage
 
-## Installation
-1. Clone the repository.
-2. Open `index.html` in your web browser.
-
 ## Future Improvements
 - Task categories
 - Due dates
