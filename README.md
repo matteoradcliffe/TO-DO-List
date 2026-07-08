@@ -1,32 +1,29 @@
 # To-Do List
 
 ## Overview
-A task management application that allows users to create, edit, complete, and delete tasks through an intuitive interface.
+A simple task management application that allows users to create, edit, complete, and delete tasks through a clean and intuitive interface.
 
 ## Features
 - Create tasks
 - Edit tasks
 - Mark tasks as complete
 - Delete tasks
-- Persistent storage
+- Persistent task storage using Local Storage
 
 ## Tech Stack
-Frontend
-- React
-
-Backend
-- Flask
-
-Database
-- SQLite
+- HTML
+- CSS
+- JavaScript
+- Local Storage
 
 ## Installation
-
-...
+1. Clone the repository.
+2. Open `index.html` in your web browser.
 
 ## Future Improvements
-- Authentication
-- Categories
+- Task categories
 - Due dates
 - Priority levels
-- Reminders
+- Search and filtering
+- Dark mode
+- Drag-and-drop task organization
